@@ -1,31 +1,20 @@
-## About me 
+### howzit, i'm josh 🤙
+
+a jr. software developer interested in GIS applications, full stack development, systems design, devops and more.  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshFarwig&show_icons=true&theme=ayu-mirage&hide=stars) 
 
 
+### currently building  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshFarwig&show_icons=true&theme=calm&hide=stars)
+a hawaii-based surf forecasting application, primarily geared towards allowing users to create, share, and log specific surf spots, while allowing them to fine-tune what spots are good specific conditions. 
 
+### currently learning  
 
-## Languages and Technologies   '
-
-Currently Learning:  
-
-
-
-Most Familar With: 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshFarwig&layout=compact&theme=calm)
+fastapi, redis, and next.js for the project above. trying out golang to better my understanding of building APIs with concurrency in mind. 
 
 
-## Knowledge Interests  
-
-GIS applications 
-
-Machine Learning techniques 
-
-Building API's and data pipelines 
-
-Front-end design and usability 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshFarwig&layout=compact&theme=ayu-mirage)
 
 
 
