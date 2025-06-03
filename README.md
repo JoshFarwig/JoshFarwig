@@ -1,6 +1,6 @@
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
 
-  <div style="flex: 1; min-width: 300px;">
+  <div style="flex: 1; min-width: 100px;">
     <h3>howzit, i'm josh 🤙</h3>
     <p>
       a jr. software developer interested in GIS applications, full stack development, systems design, devops and more.
@@ -12,7 +12,7 @@
     </p>
   </div>
 
-  <div style="flex: 1; min-width: 300px;">
+  <div style="flex: 1; min-width: 100px;">
     <h3>currently learning</h3>
     <p>
         fastapi, redis, and next.js for the project above. trying out golang to better my understanding of building APIs with concurrency in mind.
