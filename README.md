@@ -6,7 +6,7 @@ a jr. software developer interested in GIS applications, full stack development,
 
 #### currently building
 
-a hawaii-based surf forecasting application, allowing users to create, share, log, and fine tune <span style="color: green;">good</span> conditions for specific surf spots around the islands (starting with maui).
+a hawaii-based surf forecasting application, allowing users to create, share, log, and fine tune "good" conditions for specific surf spots around the islands (starting with maui).
 
 #### currently learning
 
