@@ -10,4 +10,3 @@ a hawaii-based surf forecasting application, allowing users to create, log, and 
 
 fastapi and a variety of GIS / ML techniques for the project above. hoping to build more api's with go in the future.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshFarwig&layout=compact&theme=ayu-mirage)
