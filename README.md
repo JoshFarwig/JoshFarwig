@@ -8,5 +8,5 @@ a hawaii-based surf forecasting application, allowing users to create, log, and 
 
 #### currently learning
 
-fastapi and a variety of GIS / ML techniques for the project above. hoping to build more api's with go in the future.
+fastapi, postgis (geoalchemy2), prefect, web-maps, GIS ETL pipelines, etc. for the project above. 
 
