@@ -1,6 +1,6 @@
 ### howzit, i'm josh
 
-jr. dev. into GIS, full stack, systems design & just building.
+jr. dev. into GIS, systems design, data engineering, and all things water
 
 building → nānā nalu
 
